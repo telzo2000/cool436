@@ -59,16 +59,17 @@ https://github.com/telzo2000/cool436/blob/main/buildguide_for_cool436.md
 |1|PCB|1||[elecrow](https://www.elecrow.com)<br>[JLCPCB](https://jlcpcb.com)<br>[ALLPCB](https://www.allpcb.com)||<br>
 |2|Top case|1|3D Print|||
 |3|Bottom case|1|3D Print|||
-|4|Slide switch<br>スライドスイッチ|1||[秋月電子](https://akizukidenshi.com/catalog/g/g115370/)|１個30円|
-|5|AAAA Battery case<br>単４電池ケース|2||[マルツオンライン](https://www.marutsu.co.jp/pc/i/59151/?srsltid=AfmBOoo5ctOn9kOUGJA7pCL4M2f4Y3IolfSweL7epFytDI-BLKNBKMa8)|１個81円|
-|6|XIAO nRF52840|1|MCU Board|[seeed studio](https://jp.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html?msclkid=5541f7f3d0f911eca6023fe520de5bfa)<br>[秋月電子](https://akizukidenshi.com/catalog/g/g117341/)|1940円|
-|7|Diode<br>ダイオード|36|SMD|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
-|8|Swith socket<br>スイッチソケット|36|choc|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
-|9|Screw<br>ネジ|5|黒色、スリムヘッドM2 4mm|[遊舎工房](https://shop.yushakobo.jp/products/a0800s2?variant=37665432535201)|50本880円(遊舎工房)|
-|10|Screw<br>ネジ|5|M2 3mm|DIY shop|10本200円程度|
-|11|Spacer<br>スペーサー|5|M2 3mm|DIY shop|10本400円程度|
-|12|Keyswitch<br>キースイッチ|36|chocV1及びV2対応|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
-|13|Keycap<br>キーキャップ|36|17.5mm以下の狭ピッチ、ロープロが最適|3D Print||
+|4|Switch knob|1|3D Print|||
+|5|Slide switch<br>スライドスイッチ|1||[秋月電子](https://akizukidenshi.com/catalog/g/g115370/)|１個30円|
+|6|AAAA Battery case<br>単４電池ケース|2||[マルツオンライン](https://www.marutsu.co.jp/pc/i/59151/?srsltid=AfmBOoo5ctOn9kOUGJA7pCL4M2f4Y3IolfSweL7epFytDI-BLKNBKMa8)|１個81円|
+|7|XIAO nRF52840|1|MCU Board|[seeed studio](https://jp.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html?msclkid=5541f7f3d0f911eca6023fe520de5bfa)<br>[秋月電子](https://akizukidenshi.com/catalog/g/g117341/)|1940円|
+|8|Diode<br>ダイオード|36|SMD|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
+|9|Swith socket<br>スイッチソケット|36|choc|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
+|10|Screw<br>ネジ|5|黒色、スリムヘッドM2 4mm|[遊舎工房](https://shop.yushakobo.jp/products/a0800s2?variant=37665432535201)|50本880円(遊舎工房)|
+|11|Screw<br>ネジ|5|M2 3mm|DIY shop|10本200円程度|
+|12|Spacer<br>スペーサー|5|M2 3mm|DIY shop|10本400円程度|
+|13|Keyswitch<br>キースイッチ|36|chocV1及びV2対応|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
+|14|Keycap<br>キーキャップ|36|17.5mm以下の狭ピッチ、ロープロが最適|3D Print||
 
 In addition, NiHM rechargeable batteries (4 AAA size), USB cable, etc. are required.
 <br>
@@ -76,7 +77,6 @@ In addition, NiHM rechargeable batteries (4 AAA size), USB cable, etc. are requi
 <br>
 
 <br>
-
 
 
 
