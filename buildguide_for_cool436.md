@@ -67,6 +67,7 @@ PCB ver.1.21以降の場合、次の動画を参考にしてください。
 
 [xiao bleのハンダ付け動画](https://youtu.be/98yqLjzfdl4)
 
+
 PCB ver.1.2以前の方は、次の説明を参考にしてください。
 <br>
 
