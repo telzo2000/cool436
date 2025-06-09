@@ -56,6 +56,7 @@ Solder the switch socket to the back of the keyboard board.
 
 [Switch socketハンダ付け動画](https://youtu.be/ZnbgaueMR4w?si=_JLjD--3HJJ5Pu7Q)
 
+
 <br>
 
 ## 3 Seeed xiao bleのハンダ付け
