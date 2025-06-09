@@ -26,9 +26,9 @@ Solder the diodes to the back of PCB.
 <br>
 PCBの裏面にダイオードのハンダ付けをします。
 <br>
-The diode is compatible with SMD and lead type.
+As expected, it is compatible with SMD type.
 <br>
-ダイオードは、SMDとリードタイプに対応しています。
+ダイオードは、SMDタイプに対応しています。
 <br>
 Diodes have polarity, so be careful about the direction in which they are installed.
 <br>
@@ -45,17 +45,13 @@ Diodes have polarity, so be careful about the direction in which they are instal
 
 ## 2  スイッチソケットのハンダ付け
 
-cool436 supports choc and cherryMX switch sockets.
+Cool436 supports choc switch sockets.
 <br>
-cool436では、chocおよびcherryMXのスイッチソケットに対応しています。
+cool436では、chocのスイッチソケットに対応しています。
 <br><br>
-As long as you solder only one side, you'll be fine.
+Solder the switch socket to the back of the keyboard board.
 <br>
-どちらか一方だけ、はんだ付けをすれば、大丈夫です。
-<br><br>
-Solder the switch socket on the back of the left and right keyboard boards.
-<br>
-左右のキーボード基板の裏面にスイッチソケットのハンダ付けをします。
+キーボード基板の裏面にスイッチソケットのハンダ付けをします。
 <br>
 
 [Switch socketハンダ付け動画](https://youtu.be/ZnbgaueMR4w?si=_JLjD--3HJJ5Pu7Q)
@@ -66,9 +62,13 @@ Solder the switch socket on the back of the left and right keyboard boards.
 
 <b>Note</b>
 <br>
-画像は別のキーボードですが、手順は同じです。
+PCB ver.1.21以降の場合、次の動画を参考にしてください。
+<br>
 
-![](img/img00002.jpg)
+[xiao bleのハンダ付け動画](https://youtu.be/98yqLjzfdl4)
+
+PCB ver.1.2以前の方は、次の説明を参考にしてください。
+<br>
 
 Solder Seeed xiao ble on the front of the left and right keyboard boards. The difficulty is high, so please do it carefully.
 <br>
@@ -82,7 +82,6 @@ Please follow the steps below.
 1 The one with the xiao reset switch is the surface. Apply flux to the 4 BAT and NFC terminals on the back.
 <br>
 1 xiaoのリセットスイッチのある方を表面とする。裏面にある、BATとNFCの端子４つにフラックスを塗る。
-
 ![](img/img00003.jpg)
 
 <br>
