@@ -130,29 +130,7 @@ When inserting the key switch, make sure the pins are straight.
 キースイッチを差し込む時、キースイッチのピンが真っ直ぐになっているか、確認してください。
 <br>
 
-
-
-
-##  キーキャップの装着
-
-Please attach your favorite keycap.
-<br>
-お好きなキーキャップを装着してください。
-<br>
-
-
-## 14 完成
-
-After attaching non-slip rubber to the bottom of the bottom case, it's done.
-<br>
-Please enjoy a life with a better keyboard.
-<br>
-ボトムケースの底面に、滑り止めゴムを取り付けたら、完成です。
-<br>
-よりよいキーボードのある生活を楽しんでください。
-<br>
-
-## 15 動作確認について
+## ９ 動作確認について
 
 ファームウェアの導入について、こちらの記事を参考にしてください。
 <br>
@@ -165,5 +143,40 @@ Keymapの編集について、こちらの記事を参考にしてください�
 
 
 ![](img/img00001.jpg)
+
+## 10 ボトムケースの装着
+
+Attach the top and bottom cases, making sure that the USB port on the bottom case fits into the USB connector on the xiao ble.
+<br>
+ボトムケースにあるUSB挿入口と、xiao bleのUSBがはまるよう注意して、トップケースとボトムケースを装着してください。
+<br>
+<br>
+There are five screw holes on the side, so please secure it in place using 3mm M2 screws.
+<br>
+側面に５箇所のネジ穴がありますので、そこからM2ネジ3mmで固定してください。
+<br>
+
+
+##  11　キーキャップの装着
+
+Please attach your favorite keycap.
+<br>
+お好きなキーキャップを装着してください。
+<br>
+
+
+## 12 完成
+
+After attaching non-slip rubber to the bottom of the bottom case, it's done.
+<br>
+Please enjoy a life with a better keyboard.
+<br>
+ボトムケースの底面に、滑り止めゴムを取り付けたら、完成です。
+<br>
+よりよいキーボードのある生活を楽しんでください。
+<br>
+
+![](img/img00013.jpg)
+
 
 
