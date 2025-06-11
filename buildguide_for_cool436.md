@@ -1,7 +1,6 @@
  　# Buildguide for cool436
 <br>
 
-執筆中...
 
 ## 0 部品の確認
 <br>
