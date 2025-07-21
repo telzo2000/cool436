@@ -136,6 +136,14 @@ When inserting the key switch, make sure the pins are straight.
 [自作キーボードへのzmk_firmwareのインストールについて](https://sizu.me/m_ki/posts/kvixkn2mec6a)
 
 <br>
+ここに、uf2書類があります。
+<br>
+https://github.com/telzo2000/cool436/tree/main/firmware
+
+https://github.com/telzo2000/zmk-config-cool436
+
+
+<br>
 Keymapの編集について、こちらの記事を参考にしてください。
 
 [zmk_firmwareでのキーマップ編集について](https://sizu.me/m_ki/posts/m3devs7be5km)
