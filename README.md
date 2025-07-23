@@ -70,6 +70,8 @@ https://github.com/telzo2000/cool436/blob/main/buildguide_for_cool436.md
 |12|Spacer<br>スペーサー|5|M2 3mm|DIY shop|10本400円程度|
 |13|Keyswitch<br>キースイッチ|36|chocV1及びV2対応|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
 |14|Keycap<br>キーキャップ|36|17.5mm以下の狭ピッチ、ロープロが最適|3D Print||
+|15|リセットスイッチ（タクトスイッチ）|1||[秋月電子](https://akizukidenshi.com/catalog/g/g108073/)|１個20円|
+
 
 In addition, NiHM rechargeable batteries (4 AAA size), USB cable, etc. are required.
 <br>
