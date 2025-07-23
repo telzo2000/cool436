@@ -73,7 +73,7 @@ https://github.com/telzo2000/cool436/blob/main/buildguide_for_cool436.md
 
 In addition, NiHM rechargeable batteries (4 AAA size), USB cable, etc. are required.
 <br>
-この他に、NiHM充電池（単４形４本）、USBケーブル等が必要です。
+この他に、NiHM充電池（単４形２本）、USBケーブル等が必要です。
 <br>
 
 <br>
